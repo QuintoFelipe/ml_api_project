@@ -252,7 +252,7 @@ Dentro de ``LAB_ML/`` están los notebooks y datos de desarrollo original:
 > **Nota:** Todo en LAB_ML/ es para referencia y trazabilidad de cómo se crearon los modelos que ahora utiliza la API. La API consume únicamente los archivos serializados en models/. El modelo de ``Prediccio_de_demanda`` no se usa dentro de la API
 
 ## 6. Archivos adicionales en la raíz
-- ``teoria_.pdf``: Documento teórico de apoyo (Resuelve la prueba teorica planteada).
+- ``teoria_.pdf``: Documento teórico (Resuelve la prueba teorica planteada).
 
 - ``to_predict.csv``: CSV con registros para los cuales se obtuvieron predicciones usando la API (Valores a predecir que se solicitaron).
 

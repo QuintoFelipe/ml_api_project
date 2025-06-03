@@ -10,8 +10,8 @@ router = APIRouter(prefix="/v1", tags=["predictions"])
 @router.post("/predict", response_model=PredictionSchema)
 def make_prediction(
     data: RawInputSchema,
-    _settings = Depends(get_settings),   # por si necesitas acceso a config
+    _settings = Depends(get_settings),   
 ):
     result = predict(data.dict())
-    result["autoID"] = data.autoID      # mantenemos el mismo ID en salida
+    result["autoID"] = data.autoID      
     return result

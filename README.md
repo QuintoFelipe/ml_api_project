@@ -18,7 +18,7 @@ La API sirve como **backend** para una aplicación frontend de experiencia del c
 
 Al final, la API devuelve un JSON con:
 
-```json
+```
 {
   "autoID": "id_unico",
   "class_pred": "Alpha" | "Betha",
@@ -29,7 +29,7 @@ Al final, la API devuelve un JSON con:
 De esta forma, el frontend recibe en tiempo real tanto el **código de clasificación (Alpha/Betha)** como el **valor estimado de demanda**, permitiendo decisiones de compra informadas.
 
 ## 1. Estructura general del repositorio
-```json
+```
 C:.
 │   Dockerfile
 │   README.md

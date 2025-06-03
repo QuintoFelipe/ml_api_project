@@ -1,4 +1,4 @@
-# ml_api_project# ML API Project
+# ML API Project
 
 Este repositorio reúne dos componentes principales que apoyan el análisis y la predicción de demanda para Cementos Argos:
 

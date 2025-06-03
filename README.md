@@ -259,6 +259,6 @@ Dentro de ``LAB_ML/`` están los notebooks y datos de desarrollo original:
 ## 7. Autor y Contacto
 **Juan Felipe Quinto Ríos**
 | Científico de Datos |
- quinoriosjuanfelip@gmail.com
+ quintoriosjuanfelip@gmail.com
 
  
